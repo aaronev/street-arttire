@@ -1,3 +1,11 @@
-.masthead {
-  
+.masthead{
+  opacity: 0.9;
+}
+
+h1.brand-heading {
+  color: black;
+}
+
+p.intro-text {
+  color: black;
 }
