@@ -19,6 +19,15 @@ p.intro-text {
   opacity: .9;
 }
 
+#upload h2 {
+  background-color: black;
+  opacity: .8;
+}
+
+#upload input {
+  background
+}
+
 #attire {
   background: url();
 }
